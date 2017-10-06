@@ -1,0 +1,15 @@
+{
+  "name": "mojs-lerning-02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mo-js": "^0.288.2",
+    "webpack": "^3.6.0"
+  }
+}
